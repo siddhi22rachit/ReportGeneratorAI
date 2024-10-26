@@ -1,4 +1,4 @@
-#AIzaSyDgZIStUijSLHmhx1cCYnZ9k_XQy7ozIWM
+
 from docx import Document
 from docx.shared import Pt, Inches, Cm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
